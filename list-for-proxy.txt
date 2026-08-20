@@ -4,6 +4,9 @@ dell.com
 dellcdn.com
 dellonline.ae
 
+#Cisco
+cisco.com
+
 #etc
 pushbr.com
 zerkalo.xyz
