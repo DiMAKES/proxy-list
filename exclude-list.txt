@@ -37,6 +37,8 @@ uniproxy.messenger.yandex.ru
 yandex.ru
 yastatic.net
 
+reg.ru
+
 #twitch
 twitch.tv
 ttvnw.net
